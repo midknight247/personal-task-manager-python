@@ -24,10 +24,9 @@ Save the code into two files:
 - `run.py` (interface to use the manager)
 
 Then run:
-```bash 
 python run.py
-![Screenshot 2025-05-24 232012](https://github.com/user-attachments/assets/8ee6b8fd-0758-46f3-9da4-63583b52cc3f)
-![image](https://github.com/user-attachments/assets/89134696-1a63-4104-b00e-1f7a5105d11e)
 
+![Screenshot 2025-05-24 232012](https://github.com/user-attachments/assets/5e2c5d59-71d7-4dd9-98bd-829f6278a695)
+![Screenshot 2025-05-24 232321](https://github.com/user-attachments/assets/4c6f0077-a4d2-4af9-96f3-a99de3e160f2)
 
 
